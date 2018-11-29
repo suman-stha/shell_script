@@ -11,6 +11,6 @@ do
   # Does not test for termination condition until top of loop.
   echo
 done  
-exit 
+exit 0
 
 exit 0
