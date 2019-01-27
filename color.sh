@@ -1,7 +1,5 @@
-colors="red black green white"
-
-for col in $colors
+#!/bin/bash
+for COLOR in red green blue
 do 
-echo $col
+echo "COLOR:$COLOR"
 done
-
